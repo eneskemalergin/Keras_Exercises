@@ -61,5 +61,8 @@ target/
 # data
 data/
 
-#Ipython Notebook
+# Ipython Notebook
 .ipynb_checkpoints
+
+# Storages 
+.DS_Store
